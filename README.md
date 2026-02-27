@@ -1,4 +1,4 @@
-# Telegram Subscription to config Convert Bot
+# Telegram Subscription Convert Bot | ربات تبدیل لینک سابسکریپشن
 🔹 ویژگی‌ها | Features
 
 پشتیبانی از همه نوع لینک سابسکریپشن (V2Ray / Vmess, Vless, Shadowsocks, Trojan و …)
@@ -16,7 +16,7 @@ Handles long messages (splits into 4000-character parts)
 نصب آسان با یک دستور
 Easy one-line installation
 
-## One-line Installation
+## 🔹 نصب | Installation
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/ImHajiTech/telegram-sub-to-config-bot/main/install.sh)
