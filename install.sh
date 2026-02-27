@@ -13,7 +13,7 @@ mkdir -p /opt/subbot
 cd /opt/subbot
 
 echo "Cloning repository..."
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git .
+git clone https://github.com/ImHajiTech/telegram-sub-to-config-bot.git .
 
 echo "Creating virtual environment..."
 python3 -m venv venv
